@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+header{
+	margin-bottom:5px;}
+header nav ul li{
+	display:inline;
+	
+}
+header nav ul li a{
+	margin-right:5px;
+	
+}
+header nav{
+	margin-top:150px;}
+
+#bar article{
+background:#8A4500;
+
+
+}
+#bar article section div{
+	display:inline;
+	
+	}
+#bar  img{
+	
+	margin-left:5px;
+	}
+#bar{
+	
+	margin-bottom:10px;}
+
+#bienvenidos article div{
+	display:inline;
+	
+	}
+#info2 p{margin-bottom:25px;
+}
+#info3{margin-top:-60px;
+padding-top:45px;
+}
